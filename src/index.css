@@ -1,0 +1,414 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&display=swap");
+
+body,
+html {
+  background-color: #0c0e1d !important;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+.main-bg {
+  background-image: url("../src/assets/bg2.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 2%;
+
+  border-radius: 35px;
+}
+
+.logo-txt {
+  font-family: "Orbitron", sans-serif;
+}
+.logo-txt2 {
+  font-family: "Orbitron";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height:75px;
+
+  color: #ffffff;
+}
+.logo-text {
+  font-family: "Orbitron";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px; 
+ line-height: 40px;
+  margin-bottom: 0px;
+  color: #ffffff; 
+}
+.logo-bx img{
+  width: 100px;
+}
+.pt-25 {
+  padding-top: 5px;
+}
+.hero-box {
+  background: rgba(0, 0, 0, 0.13);
+  border: 1px solid rgba(255, 255, 255, 0.46);
+  backdrop-filter: blur(34.5px);
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 31px;
+  padding: 5%;
+}
+
+.logo-bx {
+  position: relative;
+  margin-left: 10px;
+
+}
+.pt-left{
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+.chat-btn {
+  position: absolute;
+  right: 50px;
+  border: 1px solid #ffffff;
+  border-radius: 53px;
+  padding: 12px 18px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: -35px;
+  text-align: center;
+  color: #ffffff;
+}
+.chat-btn:hover {
+  border: 1px solid #000000;
+  background-color: #fff;
+  color: #000000;
+}
+
+.tele-btn {
+  font-size: 30px;
+  margin-left: 10px;
+}
+a {
+  text-decoration: none !important;
+}
+.hero-sec {
+    margin-top: -45px;
+}
+
+.nft-sec {
+  padding-top: 20px;
+  padding-bottom: 2rem;
+}
+
+.nft {
+}
+
+.box-hero {
+  background-image: url(../src/assets/box.svg);
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+
+  background-size: contain;
+  position: relative;
+  z-index: 2;
+
+  padding: 8rem 1rem 8rem 2rem;
+}
+
+.buy {
+  background: linear-gradient(98.42deg, #ff68c4 -2.43%, #fa7c5f 87.38%);
+  /* border-radius: 14px; */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  text-align: center;
+
+  padding: 10px 50px;
+  color: #ffffff;
+}
+
+/* .buy:hover {
+  background: #fff;
+
+  color: #000000;
+} */
+
+.hero-box p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 30px;
+  /* or 23px */
+
+  color: #ffffff;
+}
+
+.com {
+  gap: 20px;
+  width: fit-content;
+  background: #ffffff;
+  border-radius: 0px 0px 20px 20px;
+  padding: 3px 25px;
+  align-items: center;
+  position: absolute;
+
+  margin-left: 6%;
+  margin-top: -10px;
+}
+.com p {
+  margin-bottom: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.com .tweet {
+  color: #000;
+  font-size: 30px;
+}
+
+.com .telegram {
+  color: #000;
+  font-size: 28px;
+}
+.hb-b {
+  position: absolute;
+  width: auto;
+  max-width: 100%;
+  height: 45%;
+}
+.nft-btn {
+  background: rgba(0, 0, 0, 0.22);
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+  /* border: 1px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(322.22deg, #FFFFFF 3.51%, rgba(255, 255, 255, 0) 91.36%); */
+  border-radius: 15px;
+
+  padding: 11px 9px;
+
+  font-family: "Orbitron";
+  
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: center;
+  margin-bottom: 0px;
+  color: #ffffff;
+}
+
+.line-b {
+  width: auto;
+  height: 43px;
+}
+
+.btn-box {
+  position: absolute;
+  margin-top: -82px;
+  margin-left: 32px;
+  gap: 5.5rem;
+}
+
+.hero-btns {
+  position: absolute;
+  margin-left: 37%;
+  margin-top: -10%;
+  z-index: 8;
+}
+
+.lig-1 {
+  position: absolute;
+  margin-top: -14%;
+  margin-left: 13%;
+}
+
+.lig-2 {
+  position: absolute;
+  margin-top: 52px;
+  margin-left: 29%;
+}
+
+.lig-4 {
+  position: absolute;
+  margin-top: -36px;
+  margin-left: 18%;
+}
+
+.lig-3{
+  position: absolute;
+  z-index: -2;
+  margin-left: 28px;
+  height: 47%;
+  overflow: hidden;
+
+}
+.footer{
+  display: none;
+}
+@media (min-width:1800px) {
+  .container-fluid{
+    max-width: 1800px !important;
+  }
+  
+}
+
+@media (min-width:1700px) {
+  .box-hero{
+    padding: 8rem 13rem 8rem 2rem;
+  
+  }
+  .com {
+    margin-left: 8%;
+  }
+
+  .hero-btns {
+    position: absolute;
+    margin-left: 27%;
+    margin-top: -7%;
+    z-index: 8;
+}
+  
+}
+
+@media (max-width:768px) {
+  .main-bg {
+    background-image: url("../src/assets/mob/mob.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 2%;
+  
+    border-radius: 35px;
+  }
+  .lig-3{
+    display: none;
+  }
+  .logo-txt2{
+    font-size: 31px;
+    font-weight: 700;
+    padding-right: 7rem;
+    padding-left: 1rem;
+    line-height: 47px;
+    padding-bottom: 14.4rem;
+  }
+  .box-hero {
+    background-image: url(../src/assets/mob/mob-hero.png);
+    width: 104%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+    height: 100%;
+    padding: 32% 1rem 36% 1rem;
+    margin-bottom: 2rem;
+
+  }
+  
+  .hero-btns {
+    position: relative;
+    margin-left: 3%;
+    margin-top: 15%;
+    z-index: 8;
+}
+
+.lig-2 {
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 17%;
+}
+.nft {
+  text-align: center;
+}
+.nft-sec {
+  padding-top: 65px;
+  padding-bottom: 2rem;
+}
+.com{
+  margin-left: 8%;
+}
+
+.chat-btn {
+  position: absolute;
+  right: 11px;
+
+  padding: 2px 11px;
+
+  font-size: 11px;
+ 
+  margin-top: -36px;
+
+}
+
+.tele-btn {
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+.lig-4 {
+display: none;
+}
+.logo-text {
+  font-family: "Orbitron";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;}
+
+  .logo-bx {
+    position: relative;
+    margin-left: -130px;
+    gap: 0px !important;
+    margin-top: -24px;
+}
+.logo-bx img{
+  width: auto;
+  height: 35px;
+}
+.pt-10{
+  padding-top: 2rem;
+}
+.foot-social{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.foot-social a{
+  padding: 5px 8px;
+  background: rgba(255, 255, 255, 0.12);
+border-radius: 5px;
+color: #fff;
+font-size: 18px;
+}
+.foot-social a:hover{
+  padding: 5px 8px;
+  background: rgb(255, 255, 255);
+border-radius: 5px;
+color: #000000;
+font-size: 18px;
+}
+.lig{
+  margin-left: -7px;
+    width: auto;
+}
+.footer{
+  display: block;
+}
+
+
+.buy {
+
+  text-align: center;
+  padding: 10px 30px;}
+}
