@@ -36,7 +36,7 @@ function Nft() {
                 <img src={Nfts} alt="" style={{padding: '15px'}}/>
                 <div className='d-flex  btn-box'style={{gap:'3rem'}} >
                             <a href="/" className='nft-btn'>Shaiba Chatbot</a>
-                            <img src={Line} alt="" className='line-b' style={{marginLeft:'5px' ,marginTop:'2px'}}/>
+                            <img src={Line} alt="" className='line-b' style={{marginLeft:'30px' ,marginTop:'2px'}}/>
                         </div>
                     </div>
                 </div>

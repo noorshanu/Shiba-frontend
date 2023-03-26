@@ -215,8 +215,12 @@ a {
 .line-b {
   width: auto;
   height: 43px;
+  -webkit-transition: 0.3s ease-in-out;
+	transition: 0.3s ease-in-out
 }
-
+.line-b:hover{
+  height: 46px;
+}
 .btn-box {
   position: absolute;
   margin-top: -82px;
