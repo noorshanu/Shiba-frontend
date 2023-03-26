@@ -21,7 +21,7 @@ function App() {
       loading ?
      <Loadar/>
       :
-      <div data-aos="zoom-out" data-aos-duration="1500"  style={{overflowX:'hidden'}}>
+      <div data-aos="zoom-out" data-aos-duration="600"  style={{overflowX:'hidden'}}>
     <div className='main-bg' >
        <img src={Light} alt="" className="lig-4"/>
       <Navbar/>
