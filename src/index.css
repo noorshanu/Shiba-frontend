@@ -446,3 +446,17 @@ font-size: 18px;
   text-align: center;
   padding: 10px 30px;}
 }
+
+@media (min-width: 410px){
+.box-hero {
+   
+    width: 104%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+    height: 100%;
+    padding: 32% 1rem 58% 1rem;
+    margin-bottom: 2rem;
+}
+}
