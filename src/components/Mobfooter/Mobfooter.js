@@ -4,6 +4,8 @@ import {FaTelegramPlane,FaFacebookSquare,FaTwitter} from 'react-icons/fa'
 import {RiRecordCircleLine} from 'react-icons/ri'
 import {SiGitbook} from  'react-icons/si'
 import Light from '../../assets/mob/light.png'
+import Bsc from '../../assets/bsc.svg'
+import Uni from '../../assets/uni.svg'
 function Mobfooter() {
   return (
     <section className='footer pt-10'>
@@ -17,8 +19,8 @@ function Mobfooter() {
     <a href="/"><RiRecordCircleLine/></a>
     <a href="/"><FaFacebookSquare/></a>
     <a href="/"><FaTwitter/></a>
-    <a href="/"><FaTelegramPlane/></a>
-    <a href="/"><FaTelegramPlane/></a>
+    <a href="/"><img src={Bsc} alt=''/></a>
+    <a href="/"><img src={Uni} alt=''/></a>
     <a href="/"><SiGitbook/></a>
 
 </div>

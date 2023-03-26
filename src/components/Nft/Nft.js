@@ -16,7 +16,7 @@ function Nft() {
                         <img src={Nft1} alt=""/>
                         <div className='d-flex btn-box'>
                             <a href="/" className='nft-btn'>Ai sniper bot</a>
-                            <img src={Line} alt="" className='line-b'/>
+                            <img src={Line} alt="" className='line-b line-b1'/>
                         </div>
                     </div>
                 </div>
@@ -26,7 +26,7 @@ function Nft() {
                 <img src={Nft2} alt=""/>
                 <div className='d-flex  btn-box' style={{gap:'2.5rem'}}>
                             <a href="/" className='nft-btn'>Market research bot</a>
-                            <img src={Line} alt="" className='line-b' style={{marginLeft:'5px' ,marginTop:'2px'}}/>
+                            <img src={Line} alt="" className='line-b line-b2' />
                         </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@ function Nft() {
                 <img src={Nfts} alt="" style={{padding: '15px'}}/>
                 <div className='d-flex  btn-box'style={{gap:'3rem'}} >
                             <a href="/" className='nft-btn'>Shaiba Chatbot</a>
-                            <img src={Line} alt="" className='line-b' style={{marginLeft:'30px' ,marginTop:'2px'}}/>
+                            <img src={Line} alt="" className='line-b line-b3' />
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@ function Nft() {
                 <img src={Nft3} alt="" style={{padding: '10px'}}/>
                 <div className='d-flex  btn-box' style={{gap:'10px'}}>
                             <a href="/" className='nft-btn'>Personal companion bot</a>
-                            <img src={Line} alt="" className='line-b' style={{marginLeft:'11px' ,marginTop:'2px'}}/>
+                            <img src={Line} alt="" className='line-b line-b4' />
                         </div>
                     </div>
                 </div>

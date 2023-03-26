@@ -264,6 +264,21 @@ a {
 .footer{
   display: none;
 }
+
+.line-b2{
+  margin-left: 5px;
+  margin-top: 2px;
+}
+
+.line-b3{
+  margin-left: 30px;
+  margin-top: 2px;
+}
+
+.line-b4{
+  margin-left: 11px;
+  margin-top: 2px;
+}
 @media (min-width:1800px) {
   .container-fluid{
     max-width: 1800px !important;
@@ -293,6 +308,17 @@ a {
   .hb-b{
     display: none;
   }
+
+  .line-b1{
+    margin-left: 11px;
+    
+  }
+  .btn-box {
+    position: absolute;
+    margin-top: -77px;
+    margin-left: 37px;
+    gap: 5.5rem;
+}
   .main-bg {
     background-image: url("../src/assets/mob/mob.png");
     background-repeat: no-repeat;
