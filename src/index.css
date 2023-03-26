@@ -290,6 +290,9 @@ a {
 }
 
 @media (max-width:768px) {
+  .hb-b{
+    display: none;
+  }
   .main-bg {
     background-image: url("../src/assets/mob/mob.png");
     background-repeat: no-repeat;
@@ -373,9 +376,10 @@ display: none;
 
   .logo-bx {
     position: relative;
-    margin-left: -130px;
+    margin-left: -140px;
     gap: 0px !important;
-    margin-top: -24px;
+    margin-top: -22px;
+
 }
 .logo-bx img{
   width: auto;
