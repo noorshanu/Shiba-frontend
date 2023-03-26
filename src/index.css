@@ -331,8 +331,9 @@ a {
     display: none;
   }
   .logo-txt2{
-    font-size: 31px;
-    font-weight: 700;
+    overflow: hidden;
+    font-size: 35px;
+    font-weight: 900;
     padding-right: 7rem;
     padding-left: 1rem;
     line-height: 47px;
@@ -354,7 +355,7 @@ a {
   
   .hero-btns {
     position: relative;
-    margin-left: 3%;
+    margin-left: 5%;
     margin-top: 15%;
     z-index: 8;
 }
