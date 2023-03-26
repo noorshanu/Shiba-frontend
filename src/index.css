@@ -447,7 +447,7 @@ font-size: 18px;
   padding: 10px 30px;}
 }
 
-@media (min-width: 410px){
+@media (max-width: 410px){
 .box-hero {
    
     width: 104%;
