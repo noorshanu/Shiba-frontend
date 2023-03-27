@@ -14,7 +14,7 @@ function Hero() {
         <div className="row align-items-center">
           <div className="col-md-7 " >
           <img src={Light} alt="" className="lig-2"/>
-            <img src={HBox} alt='new' className="hb-b"/>
+            {/* <img src={HBox} alt='new' className="hb-b"/> */}
             <div className="box-hero">
             <h1 className="logo-txt logo-txt2 text-6xl">
               Revolutionizing the crypto world with 
