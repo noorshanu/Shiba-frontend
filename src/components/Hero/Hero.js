@@ -41,12 +41,12 @@ function Hero() {
           <div className="hero-box">
             <img src={Light} alt="" className="lig-1"/>
             <p>
-              Welcome to Shaiba, the ultimate Ai for the crypto community. With
+              Welcome to shAIba, the ultimate Ai for the crypto community. With
               real-time information on coins, market trends, and popular Twitter
-              users, Shaiba is the tool you need to stay ahead of the game. Our
+              users, shAIba is the tool you need to stay ahead of the game. Our
               innovative token provides users with access to premium features,
               governance proposals, and revenue sharing through our
-              revolutionary DAO. Join the Shaiba revolution today and start
+              revolutionary DAO. Join the shAIba revolution today and start
               navigating the crypto world with ease.
             </p>
           
