@@ -53,8 +53,8 @@ function Hero() {
           </div>
           <div className="d-flex  com">
                 <p>Community</p>
-                <a href="/" className="tweet"><AiFillTwitterCircle/></a>
-                <a href="/" className="telegram"><BsTelegram/></a>
+                <a href="https://twitter.com/shaibaio?s=21&t=-rzvYinChENnkQSovqC9uw" className="tweet"><AiFillTwitterCircle/></a>
+                <a href="https://t.me/shaibaio" className="telegram"><BsTelegram/></a>
             </div>
           </div>
       

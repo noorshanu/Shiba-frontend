@@ -14,7 +14,7 @@ function Navbar() {
             <p className='logo-text'>shAIba</p> */}
         </div>
         <div className='text-white'>
-            <a href="/" className='chat-btn' >CHAT BOT <span className='tele-btn'><BsTelegram/></span> </a>
+            <a href="https://t.me/ShaibaioBot" className='chat-btn' >CHAT BOT <span className='tele-btn'><BsTelegram/></span> </a>
         </div>
         </div>
        
