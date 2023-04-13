@@ -21,18 +21,11 @@ function Hero() {
               shAIba
              
             </h1>
-            {/* <h1 className="logo-txt logo-txt2 text-6xl">
-              Revolutionizing the crypto world with shAIba
-             
-            </h1>
-            <h1 className="logo-txt logo-txt2 text-6xl">
-              Revolutionizing the crypto world with shAIba
-             
-            </h1> */}
+    
             <div className="d-flex gap-4 hero-btns">
-                <a href="/" className="buy">Buy</a>
+                <a href="/" className="buy">Buy <span className="tba">(TBA)</span></a>
 
-                <a href="/" className="buy">Chart</a>
+                <a href="/" className="buy">Chart <span className="tba">(TBA)</span></a>
               </div>
             </div>
           </div>
@@ -41,13 +34,7 @@ function Hero() {
           <div className="hero-box">
             <img src={Light} alt="" className="lig-1"/>
             <p>
-              Welcome to shAIba, the ultimate AI solution for the crypto community. With
-              real-time information on coins, market trends, and popular Twitter
-              users, shAIba is the tool you need to stay ahead of the game. Our
-              innovative token provides users with access to premium features,
-              governance proposals, and revenue sharing through our
-              revolutionary DAO. Join the shAIba revolution today and start
-              navigating the crypto world with ease.
+            Welcome to $SHAI world - we deliver 4 AI pocket telegram bots that make operating in the web3 world much effortless. With real-time information on coins, market trends, and popular Twitter users, shAIba is the tool you need to stay ahead of the game. And it’s not all! The $SHAI token provides Real-Yield opportunities to its holders. Join the AI revolution with $SHAI!
             </p>
           
           </div>
